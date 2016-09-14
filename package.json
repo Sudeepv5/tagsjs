@@ -1,0 +1,16 @@
+{
+  "name": "tagsjs",
+  "version": "1.0.0",
+  "description": "API to fetch tags based on StackOverflow question",
+  "main": "index.js",
+  "dependencies": {
+    "body-parser": "^1.15.2",
+    "express": "^4.14.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Sudeep Vaka",
+  "license": "ISC"
+}

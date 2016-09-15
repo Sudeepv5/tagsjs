@@ -1,13 +1,18 @@
   
 init:
 	mkdir lib test
-	touch index.js
+	touch main.js
 
 kil:
 	killall -9 node
 
 run:
-	node index.js
+	node main.js
+
+index:
+	node indexer.js
+
+
     
     
     

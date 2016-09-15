@@ -1,0 +1,3 @@
+word 3
+tag 2
+wordtag 5

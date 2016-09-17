@@ -1,7 +1,7 @@
 var mongoose=require('mongoose');
 
 var CoocurrenceSchema=new mongoose.Schema({
-    key:String,
+    key: {type:String, index:true},
     value:Number
 });
 
